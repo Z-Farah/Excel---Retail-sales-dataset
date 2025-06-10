@@ -9,6 +9,8 @@ This dataset, titled **Retail Sales Dataset - Master**, provides detailed transa
 - **Commission Data**: Contains commission rates for 2023 and 2024.
 - **Temporal Data**: Includes `Day`, `Month`, `Year`, and full `Date` of transaction.
 
+![Screenshot 2025-06-10 at 15 20 08](https://github.com/user-attachments/assets/961fe087-2904-42d0-beb4-49fa9fa4f7ad)
+
 ## 📊 Key Metrics and Aggregates
 
 - **Average Total Sales by Generation and Product Category**:
